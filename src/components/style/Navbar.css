@@ -1,0 +1,21 @@
+body {
+  background: #e5e5e5;
+  display: grid;
+  place-content: center;
+  height: 100%;
+}
+
+.logo {
+  width: 24px;
+}
+
+.navbar {
+  background: #f55a5a;
+  display: flex;
+  min-width: 550px;
+  padding: 1.25em;
+  justify-content: center;
+  gap: 0.5em;
+  color: white;
+  font-weight: 500;
+}

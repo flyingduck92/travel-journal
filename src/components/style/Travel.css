@@ -1,0 +1,53 @@
+.travel {
+  max-width: 478px;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5em;
+  padding: 1em 0;
+}
+
+.travelImg {
+  height: 100%;
+  width: 125px;
+  border-radius: 5px;
+}
+
+.travelContent {
+  padding: 0.5em 0;
+}
+
+.travelContent--location {
+  display: flex;
+  gap: 2em;
+  font-size: 0.75em;
+}
+
+.travelContent--location p {
+  text-transform: uppercase;
+}
+
+.travelContent--location a {
+  text-decoration: underline;
+  color: #918E9B;
+}
+
+
+.travelContent--title {
+  font-size: 1.56em;
+  padding: 0.5em 0;
+}
+
+.travelContent--title,
+.travelContent--dates {
+  font-weight: 700;
+}
+.travelContent--dates {
+  padding: .5em 0;
+}
+
+.travelContent--dates,
+.travelContent--description {
+  font-size: 0.68em;
+  line-height: 119%;
