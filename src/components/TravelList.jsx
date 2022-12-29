@@ -8,8 +8,6 @@ function TravelList() {
       {list.map((item) => (
         <Travel {...item} key={item.title} />
       ))}
-      {/* <Travel /> */}
-      {/* <Travel /> */}
     </div>
   )
 }

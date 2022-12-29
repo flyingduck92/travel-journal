@@ -9,13 +9,22 @@
 }
 
 .travelImg {
-  height: 100%;
-  width: 125px;
+  height: 168px;
+  width: 126px;
   border-radius: 5px;
+  overflow: hidden;
+  /* outline: 1px solid red; */
+  /* opacity: 0.7; */
+}
+
+.travelImg img {
+  height: 100%;
+  margin-left: -60%;
 }
 
 .travelContent {
   padding: 0.5em 0;
+  flex-wrap: wrap;
 }
 
 .travelContent--location {
@@ -50,4 +59,8 @@
 .travelContent--description {
   font-size: 0.68em;
   line-height: 119%;
+}
+
+.travelContent--description {
+  max-width: 326px;
 }

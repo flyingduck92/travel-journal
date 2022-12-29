@@ -14,7 +14,9 @@ function Travel(props) {
 
   return (
     <div className='travel'>
-      <img className='travelImg' src={imageUrl} alt='image' />
+      <div className='travelImg'>
+        <img src={imageUrl} alt='image' />
+      </div>
       <div className='travelContent'>
         <div className='travelContent--location'>
           <p>
