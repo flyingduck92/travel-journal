@@ -30,9 +30,8 @@
 
 .travelContent--location a {
   text-decoration: underline;
-  color: #918E9B;
+  color: #918e9b;
 }
-
 
 .travelContent--title {
   font-size: 1.56em;
@@ -44,10 +43,11 @@
   font-weight: 700;
 }
 .travelContent--dates {
-  padding: .5em 0;
+  padding: 0.5em 0;
 }
 
 .travelContent--dates,
 .travelContent--description {
   font-size: 0.68em;
   line-height: 119%;
+}
