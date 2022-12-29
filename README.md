@@ -1,6 +1,6 @@
 # Scrimba React Course (Free) - Project 2
 
-Demo can be seen at 
+Demo can be seen at https://unrivaled-faun-ca62dd.netlify.app/
 
 In the project directory, you can run:
 
