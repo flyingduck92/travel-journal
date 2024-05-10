@@ -1,7 +1,5 @@
 # Scrimba React Course (Free) - Project 2
 
-Demo can be seen at https://travel-journal-ca62dd.netlify.app/
-
 In the project directory, you can run:
 
 ### `npm run dev` or `npm run build`
